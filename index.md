@@ -1,6 +1,5 @@
-- [Tools](tools.md)
-- [Product Management](product-management.md)
-- [Newsletters](newsletters.md)
-- [Links & Quotes](links.md)
-- [Maker Research](maker.md)
-
+- [Tools](/tools)
+- [Product Management](/product-management)
+- [Newsletters](/newsletters)
+- [Links & Quotes](/quotes)
+- [Maker Research](/maker)
