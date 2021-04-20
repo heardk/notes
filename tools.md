@@ -4,23 +4,23 @@ A list of tools and products that I'm currently using.
 
 ## Tools
 
-- [Fastmail](https://www.fastmail.com/?STKI=/u22124680) - privacy focused email on my own domain. Stop using Gmail! Personal
-- [Hey.com](https://hey.com) - A new way to think of email. Mostly just using it to read newsletters. Personal
-- [WorkFlowy](https://workflowy.com/) - How I stay organized. I use it for daily notes and todos Personal Work
-- [Notion](https://www.notion.so) - A great way to manage all kinds of content, and is hosting this site through [super.so](https://super.so?via=kheard) Personal
-- [Telegram](https://telegram.org/) - Encrypted messaging that isn't run by the *big, bad social network* Personal **
-- [Bitwarden](https://bitwarden.com/) - Open Source password management, and the best UX for managing passwords Personal
-- [Panelbear](https://panelbear.com/) - Privacy-friendly analytics for your sites, with a great free tier Personal
-- [Carrd.co](https://try.carrd.co/3bvmymz6) - Easy to use one-page site and landing page creator. Great for [about me](https://kellyheard.com) pages! Personal
-- [Raindrop.io](https://raindrop.io/) - Likely the best bookmark manager/read later service that I've used Personal Work
+- [Fastmail](https://www.fastmail.com/?STKI=/u22124680) - privacy focused email on my own domain. Stop using Gmail!
+- [Hey.com](https://hey.com) - A new way to think of email. Mostly just using it to read newsletters.
+- [WorkFlowy](https://workflowy.com/) - How I stay organized. I use it for daily notes and todos
+- [Notion](https://www.notion.so) - A great way to manage all kinds of content
+- [Telegram](https://telegram.org/) - Encrypted messaging that isn't run by the *big, bad social network*
+- [Bitwarden](https://bitwarden.com/) - Open Source password management, and the best UX for managing passwords
+- [Panelbear](https://panelbear.com/) - Privacy-friendly analytics for your sites, with a great free tier
+- [Carrd.co](https://try.carrd.co/3bvmymz6) - Easy to use one-page site and landing page creator. Great for [about me](https://kellyheard.com) pages!
+- [Raindrop.io](https://raindrop.io/) - Likely the best bookmark manager/read later service that I've used
 
 ## Products
 
 - Headphones - [Sennheiser HD 25](https://www.bhphotovideo.com/c/product/1218992-REG/sennheiser_hd_25_monitor_headphones.html), [Sony MDR-7506](https://www.bhphotovideo.com/c/product/49510-REG/Sony_MDR_7506_MDR_7506_Headphone.html), [Audio-Technnica ATH-M50x](https://www.audio-technica.com/en-ca/headphones/best-for/studio/ath-m50x) and [ATH-M50xBT](https://www.audio-technica.com/en-ca/headphones/type/wireless/ath-m50xbt)
 - DAC - [Denon DA-300USB](https://www.denon.com/en-gb/shop/dac/da300usb)
-- Headset - [Jabra Evolve 75](https://www.jabra.ca/business/office-headsets/jabra-evolve/jabra-evolve-75) Work
-- Laptop - [mid-2012 Macbook Air](https://support.apple.com/kb/SP670?locale=en_CA) Personal
-- Laptop - [2019 Macbook Pro 13-inch](https://support.apple.com/kb/SP795?locale=en_US) Work
+- Headset - [Jabra Evolve 75](https://www.jabra.ca/business/office-headsets/jabra-evolve/jabra-evolve-75)
+- Laptop - [mid-2012 Macbook Air](https://support.apple.com/kb/SP670?locale=en_CA)
+- Laptop - [2019 Macbook Pro 13-inch](https://support.apple.com/kb/SP795?locale=en_US)
 - Phone - [Blue iPhone Xr](https://www.apple.com/iphone-xr/specs/)
 - Tablet - [Sky Blue iPad Air 4](https://www.apple.com/ca/ipad-air/specs/)
 
