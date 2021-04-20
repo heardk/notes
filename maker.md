@@ -1,6 +1,6 @@
 # Maker
 
-Research links for indie hacker and startup project ideas
+Keeping track of great links for help with maker and startup ideas
 
 - [The Sweaty Startup](https://sweatystartup.com/)
 - [New Consumer](https://newconsumer.com/)
