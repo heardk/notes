@@ -2,3 +2,4 @@ title: Kelly Heard
 logo: /assets/img/notioned-kelly-sm.png
 description: notes and other links
 theme: jekyll-theme-minimal
+exclude: README.md
