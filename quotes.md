@@ -5,16 +5,13 @@
 [*A Thread on Building an Audience on Twitter from sweatystartup*](https://twitter.com/sweatystartup/status/1350113345609867265)
 
 > Building something that can add a little bit of value to millions of people isn’t the way to succeed.
-
-You’re way better off building something that can add a lot more value to a very small subset of the population.
-
-Riches are in the niches.
+> You’re way better off building something that can add a lot more value to a very small subset of the population.
+> Riches are in the niches.
 
 [*A Thread on Bad Advice from sweatystartup*](https://twitter.com/sweatystartup/status/1345855691068764161)
 
 > While listening to my favorite podcasts, I’ve noticed a two-word phrase that hosts often use with their guests to cut past the surface-level chitchat and into the heart of a story: “I’m curious.”
-…
-What “I’m curious” does is set the other person up for success. You’re not being interrogative, as there’s no right or wrong answer. There’s no judgment, no ulterior motive. You simply want to learn.
+> What “I’m curious” does is set the other person up for success. You’re not being interrogative, as there’s no right or wrong answer. There’s no judgment, no ulterior motive. You simply want to learn.
 
 [*The Two Word Trick That Makes Small Talk Interesting*](https://forge.medium.com/the-2-word-trick-that-makes-small-talk-interesting-fdd4d5aa693)
 
