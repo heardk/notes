@@ -1,6 +1,6 @@
 # Newsletters
 
-A list of newsletters I subscribe to
+A list of newsletters I'm currently subscribed to
 
 - [Benedict Evans](https://www.ben-evans.com/newsletter) - weekly newsletter on tech
 - [Changelog](https://changelog.com/subscribe) - developer news and podcasts
@@ -10,5 +10,5 @@ A list of newsletters I subscribe to
 - [5ish](https://5ish.org/about) - newsletter by M.G. Siegler
 - [Trends.co](https://trends.co/?ref=42960) - All kinds of technology and business information. (link = discount on the subscription)
 - [Exploding Topics](https://explodingtopics.com/) - Surface rapidly growing topics before they take off
-- [Bringing the Donuts](https://kennethn.substack.com/) - A newsletter for Product Managers by Ken Norton New
-- [Friendzone](https://aliabdaal.com/newsletter/) - A newsletter by doctor, youtuber and podcaster Ali Abdaal New
+- [Bringing the Donuts](https://kennethn.substack.com/) - A newsletter for Product Managers by Ken Norton
+- [Friendzone](https://aliabdaal.com/newsletter/) - A newsletter by doctor, youtuber and podcaster Ali Abdaal
