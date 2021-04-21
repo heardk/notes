@@ -1,4 +1,4 @@
-# Quotes and Links
+# Links & Quotes
 
 > Don’t be afraid to look like an idiot. Challenge smart people by retweeting and commenting. Good things come if you do it in a respectful way.
 
