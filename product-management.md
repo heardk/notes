@@ -55,7 +55,7 @@ I’ve accumulated a number of great articles and content on product management.
 - [Outcomes Over Output](https://www.joshuaseiden.com/books) by Joshua Seiden
 - [Secret Product Manager Handbook](https://secretpmhandbook.com/) by Nils Davis
 - [Best Books for Product Managers](https://productcollective.com/best-books-for-product-managers/) by Product Collective
-- [The Mom Test](https://www.amazon.ca/Mom-Test-customers-business-everyone/dp/1492180742/) by Rob Fitzpatrick
+- [The Mom Test](http://momtestbook.com/) by Rob Fitzpatrick
 
 ### Templates and Documents
 
