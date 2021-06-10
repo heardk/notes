@@ -2,7 +2,7 @@
 
 I’ve accumulated a number of great articles and content on product management. Below are some that I like to refer to from time to time.
 
-*Updated Apr 2021*
+*Updated June 2021*
 
 ### On The Role
 
@@ -15,6 +15,8 @@ I’ve accumulated a number of great articles and content on product management.
 - [Presenting for Product Managers – Develop Your Skills for Every Situation](https://www.mindtheproduct.com/presenting-for-product-managers-develop-your-skills-for-every-situation/) 💲
 - [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister)
 - [What Makes a Great Product Manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
+- [Product Management Career Ladders at 8 Top Technology Firms](https://www.sachinrekhi.com/product-management-career-ladders-at-8-top-technology-firms)
+- [The GPM Role](https://svpg.com/the-gpm-role/)
 
 ### Prioritization & Planning
 
