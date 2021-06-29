@@ -1,17 +1,17 @@
 # Tools & Products
 
+*Updated June 2021*
+
 A list of tools and products that I'm currently using.
 
 ## Tools
 
 - [Fastmail](https://www.fastmail.com/?STKI=/u22124680) - privacy focused email on my own domain. Stop using Gmail!
-- [Hey.com](https://hey.com) - A new way to think of email. Mostly just using it to read newsletters
 - [WorkFlowy](https://workflowy.com/) - How I stay organized. I use it for daily notes and todos
 - [Notion](https://www.notion.so) - A great way to manage all kinds of content
 - [Telegram](https://telegram.org/) - Encrypted messaging that isn't run by the *big, bad social network*
 - [Bitwarden](https://bitwarden.com/) - Open Source password management, and the best UX for managing passwords
 - [Panelbear](https://panelbear.com/) - Privacy-friendly analytics for your sites, with a great free tier
-- [Carrd.co](https://try.carrd.co/3bvmymz6) - Easy to use one-page site and landing page creator. Great for [about me](https://kellyheard.com) pages!
 - [Raindrop.io](https://raindrop.io/) - Likely the best bookmark manager/read later service that I've used
 
 ## Products
