@@ -1,8 +1,8 @@
 # Tools & Products
 
-*Updated June 2021*
-
 A list of tools and products that I'm currently using.
+
+*Updated June 2021*
 
 ## Tools
 
